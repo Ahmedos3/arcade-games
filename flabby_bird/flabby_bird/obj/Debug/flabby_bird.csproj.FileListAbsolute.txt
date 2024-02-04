@@ -1,0 +1,20 @@
+D:\Ahmed\data structure projectes\flabby_bird\flabby_bird\obj\Debug\flabby_bird.csproj.AssemblyReference.cache
+D:\Ahmed\data structure projectes\flabby_bird\flabby_bird\obj\Debug\arcade.FormF1.resources
+D:\Ahmed\data structure projectes\flabby_bird\flabby_bird\obj\Debug\arcade.Properties.Resources.resources
+D:\Ahmed\data structure projectes\flabby_bird\flabby_bird\obj\Debug\flabby_bird.csproj.GenerateResource.cache
+D:\Ahmed\data structure projectes\flabby_bird\flabby_bird\obj\Debug\flabby_bird.csproj.CoreCompileInputs.cache
+D:\Ahmed\data structure projectes\flabby_bird\flabby_bird\bin\Debug\flabby_bird.exe.config
+D:\Ahmed\data structure projectes\flabby_bird\flabby_bird\bin\Debug\flabby_bird.exe
+D:\Ahmed\data structure projectes\flabby_bird\flabby_bird\bin\Debug\flabby_bird.pdb
+D:\Ahmed\data structure projectes\flabby_bird\flabby_bird\obj\Debug\flabby_bird.exe
+D:\Ahmed\data structure projectes\flabby_bird\flabby_bird\obj\Debug\flabby_bird.pdb
+D:\Arcade project\flabby_bird\flabby_bird\bin\Debug\flabby_bird.exe.config
+D:\Arcade project\flabby_bird\flabby_bird\bin\Debug\flabby_bird.exe
+D:\Arcade project\flabby_bird\flabby_bird\bin\Debug\flabby_bird.pdb
+D:\Arcade project\flabby_bird\flabby_bird\obj\Debug\flabby_bird.csproj.AssemblyReference.cache
+D:\Arcade project\flabby_bird\flabby_bird\obj\Debug\arcade.FormF1.resources
+D:\Arcade project\flabby_bird\flabby_bird\obj\Debug\arcade.Properties.Resources.resources
+D:\Arcade project\flabby_bird\flabby_bird\obj\Debug\flabby_bird.csproj.GenerateResource.cache
+D:\Arcade project\flabby_bird\flabby_bird\obj\Debug\flabby_bird.csproj.CoreCompileInputs.cache
+D:\Arcade project\flabby_bird\flabby_bird\obj\Debug\flabby_bird.exe
+D:\Arcade project\flabby_bird\flabby_bird\obj\Debug\flabby_bird.pdb

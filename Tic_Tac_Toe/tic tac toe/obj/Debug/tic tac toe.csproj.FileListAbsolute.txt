@@ -1,0 +1,24 @@
+D:\project\tic tac toe\tic tac toe\bin\Debug\tic tac toe.exe.config
+D:\project\tic tac toe\tic tac toe\bin\Debug\tic tac toe.exe
+D:\project\tic tac toe\tic tac toe\bin\Debug\tic tac toe.pdb
+D:\project\tic tac toe\tic tac toe\obj\Debug\tic tac toe.csproj.AssemblyReference.cache
+D:\project\tic tac toe\tic tac toe\obj\Debug\tic tac toe.csproj.GenerateResource.cache
+D:\project\tic tac toe\tic tac toe\obj\Debug\tic tac toe.csproj.CoreCompileInputs.cache
+D:\project\tic tac toe\tic tac toe\obj\Debug\tic tac toe.exe
+D:\project\tic tac toe\tic tac toe\obj\Debug\tic tac toe.pdb
+D:\project\Tic Tac Toe\tic tac toe\obj\Debug\arcade.Formt1.resources
+D:\project\Tic Tac Toe\tic tac toe\obj\Debug\arcade.Formt2.resources
+D:\project\Tic Tac Toe\tic tac toe\obj\Debug\arcade.Properties.Resources.resources
+D:\project\Tic Tac Toe\tic tac toe\obj\Debug\arcade.game_mode.resources
+D:\Arcade project\Tic Tac Toe\tic tac toe\bin\Debug\tic tac toe.exe.config
+D:\Arcade project\Tic Tac Toe\tic tac toe\bin\Debug\tic tac toe.exe
+D:\Arcade project\Tic Tac Toe\tic tac toe\bin\Debug\tic tac toe.pdb
+D:\Arcade project\Tic Tac Toe\tic tac toe\obj\Debug\tic tac toe.csproj.AssemblyReference.cache
+D:\Arcade project\Tic Tac Toe\tic tac toe\obj\Debug\arcade.Formt1.resources
+D:\Arcade project\Tic Tac Toe\tic tac toe\obj\Debug\arcade.game_mode.resources
+D:\Arcade project\Tic Tac Toe\tic tac toe\obj\Debug\arcade.Formt2.resources
+D:\Arcade project\Tic Tac Toe\tic tac toe\obj\Debug\arcade.Properties.Resources.resources
+D:\Arcade project\Tic Tac Toe\tic tac toe\obj\Debug\tic tac toe.csproj.GenerateResource.cache
+D:\Arcade project\Tic Tac Toe\tic tac toe\obj\Debug\tic tac toe.csproj.CoreCompileInputs.cache
+D:\Arcade project\Tic Tac Toe\tic tac toe\obj\Debug\tic tac toe.exe
+D:\Arcade project\Tic Tac Toe\tic tac toe\obj\Debug\tic tac toe.pdb
